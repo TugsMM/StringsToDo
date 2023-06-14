@@ -52,7 +52,6 @@ function countNonSpaces(str) {
     return count;
   }
   
-  // Example usage
   console.log(countNonSpaces("Honey pie, you are driving me crazy"));
   console.log(countNonSpaces("Hello world !"));
 
